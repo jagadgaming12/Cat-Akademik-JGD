@@ -1,0 +1,2802 @@
+[
+  {
+    "id": 1,
+    "kategori": "Pengetahuan Umum",
+    "q": "Ibukota negara Indonesia adalah...",
+    "a": ["Bandung", "Surabaya", "Jakarta", "Medan"],
+    "correct": 2
+  },
+  {
+    "id": 2,
+    "kategori": "Pengetahuan Umum",
+    "q": "Presiden pertama Republik Indonesia adalah...",
+    "a": ["Soeharto", "Joko Widodo", "B.J. Habibie", "Ir. Soekarno"],
+    "correct": 3
+  },
+  {
+    "id": 3,
+    "kategori": "Pengetahuan Umum",
+    "q": "Benua terbesar di dunia adalah...",
+    "a": ["Afrika", "Asia", "Eropa", "Amerika"],
+    "correct": 1
+  },
+  {
+    "id": 4,
+    "kategori": "Pengetahuan Umum",
+    "q": "Gunung tertinggi di Indonesia adalah...",
+    "a": ["Gunung Semeru", "Gunung Kerinci", "Puncak Jaya", "Gunung Rinjani"],
+    "correct": 2
+  },
+  {
+    "id": 5,
+    "kategori": "Pengetahuan Umum",
+    "q": "Alat untuk mengukur suhu disebut...",
+    "a": ["Barometer", "Termometer", "Higrometer", "Altimeter"],
+    "correct": 1
+  },
+  {
+    "id": 6,
+    "kategori": "Pengetahuan Umum",
+    "q": "Planet terdekat dengan Matahari adalah...",
+    "a": ["Venus", "Bumi", "Merkurius", "Mars"],
+    "correct": 2
+  },
+  {
+    "id": 7,
+    "kategori": "Pengetahuan Umum",
+    "q": "Lambang kimia untuk air adalah...",
+    "a": ["CO2", "O2", "H2O", "NaCl"],
+    "correct": 2
+  },
+  {
+    "id": 8,
+    "kategori": "Pengetahuan Umum",
+    "q": "Bahasa resmi negara Indonesia adalah...",
+    "a": ["Bahasa Jawa", "Bahasa Indonesia", "Bahasa Melayu", "Bahasa Sunda"],
+    "correct": 1
+  },
+  {
+    "id": 9,
+    "kategori": "Pengetahuan Umum",
+    "q": "Hari Kemerdekaan Indonesia diperingati setiap tanggal...",
+    "a": ["1 Juni", "20 Mei", "17 Agustus", "28 Oktober"],
+    "correct": 2
+  },
+  {
+    "id": 10,
+    "kategori": "Pengetahuan Umum",
+    "q": "Samudra terluas di dunia adalah...",
+    "a": ["Samudra Atlantik", "Samudra Hindia", "Samudra Pasifik", "Samudra Arktik"],
+    "correct": 2
+  },
+  {
+    "id": 11,
+    "kategori": "Pengetahuan Umum",
+    "q": "Mata uang Jepang adalah...",
+    "a": ["Won", "Yuan", "Yen", "Dollar"],
+    "correct": 2
+  },
+  {
+    "id": 12,
+    "kategori": "Pengetahuan Umum",
+    "q": "Alat pernapasan pada ikan adalah...",
+    "a": ["Paru-paru", "Insang", "Trakea", "Kulit"],
+    "correct": 1
+  },
+  {
+    "id": 13,
+    "kategori": "Pengetahuan Umum",
+    "q": "Organ tubuh manusia yang berfungsi memompa darah adalah...",
+    "a": ["Paru-paru", "Hati", "Jantung", "Ginjal"],
+    "correct": 2
+  },
+  {
+    "id": 14,
+    "kategori": "Pengetahuan Umum",
+    "q": "Negara dengan jumlah penduduk terbanyak di dunia adalah...",
+    "a": ["India", "Amerika Serikat", "China", "Indonesia"],
+    "correct": 2
+  },
+  {
+    "id": 15,
+    "kategori": "Pengetahuan Umum",
+    "q": "Lapisan atmosfer yang paling dekat dengan permukaan bumi adalah...",
+    "a": ["Stratosfer", "Mesosfer", "Troposfer", "Termosfer"],
+    "correct": 2
+  },
+  {
+    "id": 16,
+    "kategori": "Pengetahuan Umum",
+    "q": "Satuan SI untuk gaya adalah...",
+    "a": ["Joule", "Newton", "Watt", "Pascal"],
+    "correct": 1
+  },
+  {
+    "id": 17,
+    "kategori": "Pengetahuan Umum",
+    "q": "Bapak Proklamator Indonesia adalah...",
+    "a": ["Soekarno dan Hatta", "Soekarno dan Soeharto", "Hatta dan Habibie", "Soeharto dan Gus Dur"],
+    "correct": 0
+  },
+  {
+    "id": 18,
+    "kategori": "Pengetahuan Umum",
+    "q": "Hewan pemakan tumbuhan disebut...",
+    "a": ["Karnivora", "Omnivora", "Herbivora", "Insektivora"],
+    "correct": 2
+  },
+  {
+    "id": 19,
+    "kategori": "Pengetahuan Umum",
+    "q": "Ibukota provinsi Jawa Barat adalah...",
+    "a": ["Bekasi", "Bandung", "Bogor", "Cirebon"],
+    "correct": 1
+  },
+  {
+    "id": 20,
+    "kategori": "Pengetahuan Umum",
+    "q": "Alat musik tradisional dari Jawa Barat adalah...",
+    "a": ["Angklung", "Gamelan", "Sasando", "Kolintang"],
+    "correct": 0
+  },
+  {
+    "id": 21,
+    "kategori": "Pengetahuan Umum",
+    "q": "Negara dengan luas wilayah terbesar di dunia adalah...",
+    "a": ["Amerika Serikat", "China", "Kanada", "Rusia"],
+    "correct": 3
+  },
+  {
+    "id": 22,
+    "kategori": "Pengetahuan Umum",
+    "q": "Bendera negara Indonesia terdiri dari warna...",
+    "a": ["Merah dan Putih", "Merah dan Biru", "Putih dan Biru", "Merah dan Kuning"],
+    "correct": 0
+  },
+  {
+    "id": 23,
+    "kategori": "Pengetahuan Umum",
+    "q": "Sungai terpanjang di dunia adalah...",
+    "a": ["Amazon", "Nil", "Mississippi", "Yangtze"],
+    "correct": 1
+  },
+  {
+    "id": 24,
+    "kategori": "Pengetahuan Umum",
+    "q": "Planet terbesar di tata surya adalah...",
+    "a": ["Bumi", "Mars", "Jupiter", "Saturnus"],
+    "correct": 2
+  },
+  {
+    "id": 25,
+    "kategori": "Pengetahuan Umum",
+    "q": "Alat untuk mengukur tekanan udara adalah...",
+    "a": ["Termometer", "Barometer", "Higrometer", "Anemometer"],
+    "correct": 1
+  },
+  {
+    "id": 26,
+    "kategori": "Pengetahuan Umum",
+    "q": "Zat yang diperlukan tumbuhan untuk fotosintesis adalah...",
+    "a": ["Oksigen", "Karbon dioksida", "Nitrogen", "Hidrogen"],
+    "correct": 1
+  },
+  {
+    "id": 27,
+    "kategori": "Pengetahuan Umum",
+    "q": "Ibu kota negara Jepang adalah...",
+    "a": ["Seoul", "Tokyo", "Beijing", "Bangkok"],
+    "correct": 1
+  },
+  {
+    "id": 28,
+    "kategori": "Pengetahuan Umum",
+    "q": "Organ tubuh manusia yang berfungsi menyaring darah adalah...",
+    "a": ["Jantung", "Ginjal", "Paru-paru", "Hati"],
+    "correct": 1
+  },
+  {
+    "id": 29,
+    "kategori": "Pengetahuan Umum",
+    "q": "Satuan panjang dalam SI adalah...",
+    "a": ["Kilogram", "Meter", "Detik", "Ampere"],
+    "correct": 1
+  },
+  {
+    "id": 30,
+    "kategori": "Pengetahuan Umum",
+    "q": "Hewan yang hidup di dua alam disebut...",
+    "a": ["Reptil", "Mamalia", "Amfibi", "Aves"],
+    "correct": 2
+  },
+  {
+    "id": 31,
+    "kategori": "Pengetahuan Umum",
+    "q": "Pulau terbesar di Indonesia adalah...",
+    "a": ["Jawa", "Sumatra", "Kalimantan", "Sulawesi"],
+    "correct": 2
+  },
+  {
+    "id": 32,
+    "kategori": "Pengetahuan Umum",
+    "q": "Proses perubahan air menjadi uap air disebut...",
+    "a": ["Kondensasi", "Evaporasi", "Presipitasi", "Sublimasi"],
+    "correct": 1
+  },
+  {
+    "id": 33,
+    "kategori": "Pengetahuan Umum",
+    "q": "Alat musik tiup tradisional Minangkabau adalah...",
+    "a": ["Saluang", "Angklung", "Kolintang", "Tifa"],
+    "correct": 0
+  },
+  {
+    "id": 34,
+    "kategori": "Pengetahuan Umum",
+    "q": "Negara yang terkenal dengan Menara Eiffel adalah...",
+    "a": ["Italia", "Jerman", "Prancis", "Spanyol"],
+    "correct": 2
+  },
+  {
+    "id": 35,
+    "kategori": "Pengetahuan Umum",
+    "q": "Lapisan ozon terdapat pada lapisan atmosfer...",
+    "a": ["Troposfer", "Stratosfer", "Mesosfer", "Termosfer"],
+    "correct": 1
+  },
+  {
+    "id": 36,
+    "kategori": "Pengetahuan Umum",
+    "q": "Ibukota provinsi Jawa Tengah adalah...",
+    "a": ["Yogyakarta", "Semarang", "Solo", "Magelang"],
+    "correct": 1
+  },
+  {
+    "id": 37,
+    "kategori": "Pengetahuan Umum",
+    "q": "Satuan waktu dalam SI adalah...",
+    "a": ["Menit", "Jam", "Detik", "Hari"],
+    "correct": 2
+  },
+  {
+    "id": 38,
+    "kategori": "Pengetahuan Umum",
+    "q": "Gunung berapi aktif di Indonesia yang terkenal adalah...",
+    "a": ["Gunung Merapi", "Gunung Lawu", "Gunung Wilis", "Gunung Muria"],
+    "correct": 0
+  },
+  {
+    "id": 39,
+    "kategori": "Pengetahuan Umum",
+    "q": "Negara dengan sistem pemerintahan monarki dipimpin oleh...",
+    "a": ["Presiden", "Perdana Menteri", "Raja atau Ratu", "Gubernur"],
+    "correct": 2
+  },
+  {
+    "id": 40,
+    "kategori": "Pengetahuan Umum",
+    "q": "Bahan bakar fosil yang berasal dari tumbuhan purba adalah...",
+    "a": ["Minyak bumi", "Batu bara", "Gas alam", "Uranium"],
+    "correct": 1
+  },
+  {
+    "id": 41,
+    "kategori": "Pengetahuan Umum",
+    "q": "Laut terluas di dunia adalah...",
+    "a": ["Laut Merah", "Laut Karibia", "Laut Cina Selatan", "Laut Filipina"],
+    "correct": 3
+  },
+  {
+    "id": 42,
+    "kategori": "Pengetahuan Umum",
+    "q": "Negara yang memiliki jumlah pulau terbanyak di dunia adalah...",
+    "a": ["Indonesia", "Filipina", "Swedia", "Jepang"],
+    "correct": 2
+  },
+  {
+    "id": 43,
+    "kategori": "Pengetahuan Umum",
+    "q": "Sistem peredaran darah manusia disebut...",
+    "a": ["Terbuka", "Tertutup", "Ganda", "Sederhana"],
+    "correct": 2
+  },
+  {
+    "id": 44,
+    "kategori": "Pengetahuan Umum",
+    "q": "Ibukota negara Australia adalah...",
+    "a": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "correct": 2
+  },
+  {
+    "id": 45,
+    "kategori": "Pengetahuan Umum",
+    "q": "Alat untuk mengukur kecepatan angin adalah...",
+    "a": ["Barometer", "Anemometer", "Termometer", "Higrometer"],
+    "correct": 1
+  },
+  {
+    "id": 46,
+    "kategori": "Pengetahuan Umum",
+    "q": "Hewan yang berkembang biak dengan cara bertelur disebut...",
+    "a": ["Vivipar", "Ovovivipar", "Ovipar", "Herbivora"],
+    "correct": 2
+  },
+  {
+    "id": 47,
+    "kategori": "Pengetahuan Umum",
+    "q": "Organ tubuh yang berfungsi untuk berpikir adalah...",
+    "a": ["Jantung", "Otak", "Paru-paru", "Hati"],
+    "correct": 1
+  },
+  {
+    "id": 48,
+    "kategori": "Pengetahuan Umum",
+    "q": "Negara dengan ekonomi terbesar di dunia saat ini adalah...",
+    "a": ["China", "Amerika Serikat", "Jepang", "Jerman"],
+    "correct": 1
+  },
+  {
+    "id": 49,
+    "kategori": "Pengetahuan Umum",
+    "q": "Proses perubahan uap air menjadi air disebut...",
+    "a": ["Evaporasi", "Kondensasi", "Sublimasi", "Presipitasi"],
+    "correct": 1
+  },
+  {
+    "id": 50,
+    "kategori": "Pengetahuan Umum",
+    "q": "Ibukota negara Thailand adalah...",
+    "a": ["Hanoi", "Bangkok", "Kuala Lumpur", "Manila"],
+    "correct": 1
+  },
+  {
+    "id": 51,
+    "kategori": "Pengetahuan Umum",
+    "q": "Zat yang memberi warna hijau pada daun adalah...",
+    "a": ["Klorofil", "Karoten", "Xantofil", "Hemoglobin"],
+    "correct": 0
+  },
+  {
+    "id": 52,
+    "kategori": "Pengetahuan Umum",
+    "q": "Benua yang tidak memiliki penduduk tetap adalah...",
+    "a": ["Afrika", "Antartika", "Australia", "Eropa"],
+    "correct": 1
+  },
+  {
+    "id": 53,
+    "kategori": "Pengetahuan Umum",
+    "q": "Alat untuk mengukur gempa bumi adalah...",
+    "a": ["Seismograf", "Termometer", "Barometer", "Higrometer"],
+    "correct": 0
+  },
+  {
+    "id": 54,
+    "kategori": "Pengetahuan Umum",
+    "q": "Ibukota negara Malaysia adalah...",
+    "a": ["Kuching", "Johor Bahru", "Kuala Lumpur", "Penang"],
+    "correct": 2
+  },
+  {
+    "id": 55,
+    "kategori": "Pengetahuan Umum",
+    "q": "Hewan pemakan daging disebut...",
+    "a": ["Herbivora", "Omnivora", "Karnivora", "Insektivora"],
+    "correct": 2
+  },
+  {
+    "id": 56,
+    "kategori": "Pengetahuan Umum",
+    "q": "Satuan arus listrik dalam SI adalah...",
+    "a": ["Volt", "Ohm", "Ampere", "Watt"],
+    "correct": 2
+  },
+  {
+    "id": 57,
+    "kategori": "Pengetahuan Umum",
+    "q": "Planet yang dikenal sebagai planet merah adalah...",
+    "a": ["Venus", "Mars", "Jupiter", "Saturnus"],
+    "correct": 1
+  },
+  {
+    "id": 58,
+    "kategori": "Pengetahuan Umum",
+    "q": "Ibukota negara Korea Selatan adalah...",
+    "a": ["Seoul", "Busan", "Incheon", "Daegu"],
+    "correct": 0
+  },
+  {
+    "id": 59,
+    "kategori": "Pengetahuan Umum",
+    "q": "Lapisan bumi yang paling luar adalah...",
+    "a": ["Inti dalam", "Inti luar", "Mantel", "Kerak bumi"],
+    "correct": 3
+  },
+  {
+    "id": 60,
+    "kategori": "Pengetahuan Umum",
+    "q": "Sumber energi utama bagi kehidupan di bumi adalah...",
+    "a": ["Air", "Angin", "Matahari", "Batu bara"],
+    "correct": 2
+  },
+  {
+    "id": 61,
+    "kategori": "Pengetahuan Umum",
+    "q": "Negara yang terkenal dengan piramida adalah...",
+    "a": ["Yunani", "Mesir", "Italia", "Turki"],
+    "correct": 1
+  },
+  {
+    "id": 62,
+    "kategori": "Pengetahuan Umum",
+    "q": "Satuan untuk mengukur kuat arus listrik adalah...",
+    "a": ["Volt", "Ampere", "Watt", "Ohm"],
+    "correct": 1
+  },
+  {
+    "id": 63,
+    "kategori": "Pengetahuan Umum",
+    "q": "Ibukota negara Filipina adalah...",
+    "a": ["Cebu", "Davao", "Manila", "Quezon"],
+    "correct": 2
+  },
+  {
+    "id": 64,
+    "kategori": "Pengetahuan Umum",
+    "q": "Hewan yang hidup di air disebut...",
+    "a": ["Terestrial", "Arboreal", "Akuatik", "Amfibi"],
+    "correct": 2
+  },
+  {
+    "id": 65,
+    "kategori": "Pengetahuan Umum",
+    "q": "Proses pembuatan makanan oleh tumbuhan disebut...",
+    "a": ["Respirasi", "Fotosintesis", "Transpirasi", "Fermentasi"],
+    "correct": 1
+  },
+  {
+    "id": 66,
+    "kategori": "Pengetahuan Umum",
+    "q": "Negara dengan jumlah penduduk terbesar kedua di dunia adalah...",
+    "a": ["India", "China", "Amerika Serikat", "Indonesia"],
+    "correct": 0
+  },
+  {
+    "id": 67,
+    "kategori": "Pengetahuan Umum",
+    "q": "Ibukota negara Inggris adalah...",
+    "a": ["Manchester", "Liverpool", "London", "Birmingham"],
+    "correct": 2
+  },
+  {
+    "id": 68,
+    "kategori": "Pengetahuan Umum",
+    "q": "Alat untuk melihat benda yang sangat kecil adalah...",
+    "a": ["Teleskop", "Mikroskop", "Periskop", "Kamera"],
+    "correct": 1
+  },
+  {
+    "id": 69,
+    "kategori": "Pengetahuan Umum",
+    "q": "Satuan energi dalam SI adalah...",
+    "a": ["Watt", "Newton", "Joule", "Pascal"],
+    "correct": 2
+  },
+  {
+    "id": 70,
+    "kategori": "Pengetahuan Umum",
+    "q": "Planet yang memiliki cincin paling jelas adalah...",
+    "a": ["Mars", "Venus", "Saturnus", "Merkurius"],
+    "correct": 2
+  },
+  {
+    "id": 71,
+    "kategori": "Pengetahuan Umum",
+    "q": "Ibukota negara Korea Utara adalah...",
+    "a": ["Seoul", "Pyongyang", "Busan", "Hanoi"],
+    "correct": 1
+  },
+  {
+    "id": 72,
+    "kategori": "Pengetahuan Umum",
+    "q": "Gas yang paling banyak terdapat di atmosfer bumi adalah...",
+    "a": ["Oksigen", "Karbon dioksida", "Nitrogen", "Hidrogen"],
+    "correct": 2
+  },
+  {
+    "id": 73,
+    "kategori": "Pengetahuan Umum",
+    "q": "Ibukota negara Singapura adalah...",
+    "a": ["Jurong", "Sentosa", "Singapura", "Woodlands"],
+    "correct": 2
+  },
+  {
+    "id": 74,
+    "kategori": "Pengetahuan Umum",
+    "q": "Hewan pemakan segala disebut...",
+    "a": ["Herbivora", "Karnivora", "Omnivora", "Insektivora"],
+    "correct": 2
+  },
+  {
+    "id": 75,
+    "kategori": "Pengetahuan Umum",
+    "q": "Alat untuk mengukur kelembaban udara adalah...",
+    "a": ["Barometer", "Higrometer", "Termometer", "Anemometer"],
+    "correct": 1
+  },
+  {
+    "id": 76,
+    "kategori": "Pengetahuan Umum",
+    "q": "Ibukota negara Rusia adalah...",
+    "a": ["St. Petersburg", "Moskow", "Kazan", "Sochi"],
+    "correct": 1
+  },
+  {
+    "id": 77,
+    "kategori": "Pengetahuan Umum",
+    "q": "Bagian tumbuhan yang berfungsi menyerap air adalah...",
+    "a": ["Daun", "Batang", "Akar", "Bunga"],
+    "correct": 2
+  },
+  {
+    "id": 78,
+    "kategori": "Pengetahuan Umum",
+    "q": "Negara yang terkenal dengan Tembok Besar adalah...",
+    "a": ["Jepang", "China", "India", "Korea"],
+    "correct": 1
+  },
+  {
+    "id": 79,
+    "kategori": "Pengetahuan Umum",
+    "q": "Satuan tekanan dalam SI adalah...",
+    "a": ["Newton", "Joule", "Pascal", "Watt"],
+    "correct": 2
+  },
+  {
+    "id": 80,
+    "kategori": "Pengetahuan Umum",
+    "q": "Planet terpanas di tata surya adalah...",
+    "a": ["Merkurius", "Venus", "Mars", "Jupiter"],
+    "correct": 1
+  },
+  {
+    "id": 81,
+    "kategori": "Pengetahuan Umum",
+    "q": "Benua terkecil di dunia adalah...",
+    "a": ["Eropa", "Australia", "Antartika", "Amerika Selatan"],
+    "correct": 1
+  },
+  {
+    "id": 82,
+    "kategori": "Pengetahuan Umum",
+    "q": "Ibukota negara India adalah...",
+    "a": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+    "correct": 1
+  },
+  {
+    "id": 83,
+    "kategori": "Pengetahuan Umum",
+    "q": "Hewan yang menyusui anaknya disebut...",
+    "a": ["Reptil", "Aves", "Mamalia", "Amfibi"],
+    "correct": 2
+  },
+  {
+    "id": 84,
+    "kategori": "Pengetahuan Umum",
+    "q": "Alat untuk mengukur waktu adalah...",
+    "a": ["Kompas", "Jam", "Termometer", "Barometer"],
+    "correct": 1
+  },
+  {
+    "id": 85,
+    "kategori": "Pengetahuan Umum",
+    "q": "Gunung tertinggi di dunia adalah...",
+    "a": ["K2", "Everest", "Kilimanjaro", "Elbrus"],
+    "correct": 1
+  },
+  {
+    "id": 86,
+    "kategori": "Pengetahuan Umum",
+    "q": "Ibukota negara Arab Saudi adalah...",
+    "a": ["Jeddah", "Riyadh", "Mecca", "Medina"],
+    "correct": 1
+  },
+  {
+    "id": 87,
+    "kategori": "Pengetahuan Umum",
+    "q": "Proses perubahan zat padat menjadi gas disebut...",
+    "a": ["Mencair", "Menguap", "Menyublim", "Membeku"],
+    "correct": 2
+  },
+  {
+    "id": 88,
+    "kategori": "Pengetahuan Umum",
+    "q": "Negara dengan menara Pisa yang miring adalah...",
+    "a": ["Spanyol", "Italia", "Prancis", "Portugal"],
+    "correct": 1
+  },
+  {
+    "id": 89,
+    "kategori": "Pengetahuan Umum",
+    "q": "Satuan daya dalam SI adalah...",
+    "a": ["Joule", "Newton", "Watt", "Pascal"],
+    "correct": 2
+  },
+  {
+    "id": 90,
+    "kategori": "Pengetahuan Umum",
+    "q": "Planet terbesar kedua di tata surya adalah...",
+    "a": ["Saturnus", "Jupiter", "Neptunus", "Uranus"],
+    "correct": 0
+  },
+  {
+    "id": 91,
+    "kategori": "Pengetahuan Umum",
+    "q": "Ibukota negara Vietnam adalah...",
+    "a": ["Ho Chi Minh City", "Hanoi", "Da Nang", "Hue"],
+    "correct": 1
+  },
+  {
+    "id": 92,
+    "kategori": "Pengetahuan Umum",
+    "q": "Gas yang dibutuhkan manusia untuk bernapas adalah...",
+    "a": ["Karbon dioksida", "Nitrogen", "Oksigen", "Hidrogen"],
+    "correct": 2
+  },
+  {
+    "id": 93,
+    "kategori": "Pengetahuan Umum",
+    "q": "Ibukota negara Jerman adalah...",
+    "a": ["Munich", "Berlin", "Hamburg", "Frankfurt"],
+    "correct": 1
+  },
+  {
+    "id": 94,
+    "kategori": "Pengetahuan Umum",
+    "q": "Hewan yang hidup di darat disebut...",
+    "a": ["Akuatik", "Amfibi", "Terestrial", "Arboreal"],
+    "correct": 2
+  },
+  {
+    "id": 95,
+    "kategori": "Pengetahuan Umum",
+    "q": "Alat untuk menunjukkan arah mata angin adalah...",
+    "a": ["Kompas", "Barometer", "Higrometer", "Termometer"],
+    "correct": 0
+  },
+  {
+    "id": 96,
+    "kategori": "Pengetahuan Umum",
+    "q": "Ibukota negara Brasil adalah...",
+    "a": ["Rio de Janeiro", "Sao Paulo", "Brasilia", "Salvador"],
+    "correct": 2
+  },
+  {
+    "id": 97,
+    "kategori": "Pengetahuan Umum",
+    "q": "Bagian tubuh tumbuhan yang berfungsi untuk fotosintesis adalah...",
+    "a": ["Akar", "Batang", "Daun", "Bunga"],
+    "correct": 2
+  },
+  {
+    "id": 98,
+    "kategori": "Pengetahuan Umum",
+    "q": "Negara yang terkenal dengan patung Liberty adalah...",
+    "a": ["Kanada", "Amerika Serikat", "Inggris", "Prancis"],
+    "correct": 1
+  },
+  {
+    "id": 99,
+    "kategori": "Pengetahuan Umum",
+    "q": "Satuan frekuensi dalam SI adalah...",
+    "a": ["Hertz", "Watt", "Newton", "Pascal"],
+    "correct": 0
+  },
+  {
+    "id": 100,
+    "kategori": "Pengetahuan Umum",
+    "q": "Planet terjauh dari Matahari adalah...",
+    "a": ["Uranus", "Neptunus", "Saturnus", "Pluto"],
+    "correct": 1
+  },
+  {
+    "id": 101,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Dasar negara Indonesia adalah...",
+    "a": ["UUD 1945", "Pancasila", "NKRI", "Bhinneka Tunggal Ika"],
+    "correct": 1
+  },
+  {
+    "id": 102,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Semboyan negara Indonesia adalah...",
+    "a": ["Tut Wuri Handayani", "Bhinneka Tunggal Ika", "Garuda Pancasila", "Indonesia Raya"],
+    "correct": 1
+  },
+  {
+    "id": 103,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Undang-Undang Dasar negara Indonesia adalah...",
+    "a": ["UUD 1945", "TAP MPR", "KUHP", "UU Perdata"],
+    "correct": 0
+  },
+  {
+    "id": 104,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Lambang negara Indonesia adalah...",
+    "a": ["Burung Merpati", "Garuda Pancasila", "Elang Jawa", "Rajawali"],
+    "correct": 1
+  },
+  {
+    "id": 105,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Sila pertama Pancasila adalah...",
+    "a": ["Kemanusiaan yang adil dan beradab", "Persatuan Indonesia", "Ketuhanan Yang Maha Esa", "Keadilan sosial bagi seluruh rakyat Indonesia"],
+    "correct": 2
+  },
+  {
+    "id": 106,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Jumlah sila dalam Pancasila adalah...",
+    "a": ["3", "4", "5", "6"],
+    "correct": 2
+  },
+  {
+    "id": 107,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Hari lahir Pancasila diperingati setiap tanggal...",
+    "a": ["1 Juni", "17 Agustus", "20 Mei", "28 Oktober"],
+    "correct": 0
+  },
+  {
+    "id": 108,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Proklamasi kemerdekaan Indonesia terjadi pada tanggal...",
+    "a": ["1 Juni 1945", "17 Agustus 1945", "28 Oktober 1928", "20 Mei 1908"],
+    "correct": 1
+  },
+  {
+    "id": 109,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Tokoh yang membacakan teks proklamasi adalah...",
+    "a": ["Mohammad Hatta", "Soekarno", "Sutan Sjahrir", "Ahmad Soebardjo"],
+    "correct": 1
+  },
+  {
+    "id": 110,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Negara Kesatuan Republik Indonesia disingkat...",
+    "a": ["RI", "NKRI", "IND", "INA"],
+    "correct": 1
+  },
+  {
+    "id": 111,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Lagu kebangsaan Indonesia adalah...",
+    "a": ["Indonesia Raya", "Tanah Airku", "Bagimu Negeri", "Garuda Pancasila"],
+    "correct": 0
+  },
+  {
+    "id": 112,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Bendera negara Indonesia disebut...",
+    "a": ["Sang Saka Merah Putih", "Dwi Warna", "Triwarna", "Garuda"],
+    "correct": 0
+  },
+  {
+    "id": 113,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Peristiwa Sumpah Pemuda terjadi pada tahun...",
+    "a": ["1908", "1928", "1945", "1950"],
+    "correct": 1
+  },
+  {
+    "id": 114,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Isi Sumpah Pemuda yang ketiga adalah...",
+    "a": ["Bertumpah darah satu, tanah air Indonesia", "Berbangsa satu, bangsa Indonesia", "Menjunjung bahasa persatuan, Bahasa Indonesia", "Setia kepada negara"],
+    "correct": 2
+  },
+  {
+    "id": 115,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Bentuk negara Indonesia adalah...",
+    "a": ["Federasi", "Kerajaan", "Kesatuan", "Konfederasi"],
+    "correct": 2
+  },
+  {
+    "id": 116,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Sistem pemerintahan Indonesia adalah...",
+    "a": ["Monarki", "Parlementer", "Presidensial", "Oligarki"],
+    "correct": 2
+  },
+  {
+    "id": 117,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Lembaga legislatif di Indonesia adalah...",
+    "a": ["Mahkamah Agung", "DPR", "Presiden", "BPK"],
+    "correct": 1
+  },
+  {
+    "id": 118,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Lembaga yudikatif di Indonesia adalah...",
+    "a": ["DPR", "Presiden", "Mahkamah Agung", "MPR"],
+    "correct": 2
+  },
+  {
+    "id": 119,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Lembaga eksekutif di Indonesia dipimpin oleh...",
+    "a": ["Ketua DPR", "Presiden", "Ketua MA", "Ketua MPR"],
+    "correct": 1
+  },
+  {
+    "id": 120,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Tujuan negara Indonesia tercantum dalam...",
+    "a": ["Batang tubuh UUD 1945", "Pembukaan UUD 1945", "Pancasila", "TAP MPR"],
+    "correct": 1
+  },
+  {
+    "id": 121,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Rumusan Pancasila yang sah dan benar tercantum dalam...",
+    "a": ["Piagam Jakarta", "Pembukaan UUD 1945", "Batang tubuh UUD 1945", "TAP MPR"],
+    "correct": 1
+  },
+  {
+    "id": 122,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Sila kedua Pancasila berbunyi...",
+    "a": ["Persatuan Indonesia", "Kemanusiaan yang adil dan beradab", "Kerakyatan yang dipimpin oleh hikmat kebijaksanaan", "Keadilan sosial bagi seluruh rakyat Indonesia"],
+    "correct": 1
+  },
+  {
+    "id": 123,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Sila ketiga Pancasila berbunyi...",
+    "a": ["Persatuan Indonesia", "Kemanusiaan yang adil dan beradab", "Ketuhanan Yang Maha Esa", "Keadilan sosial bagi seluruh rakyat Indonesia"],
+    "correct": 0
+  },
+  {
+    "id": 124,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Sila keempat Pancasila berbunyi...",
+    "a": ["Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan", "Persatuan Indonesia", "Keadilan sosial bagi seluruh rakyat Indonesia", "Ketuhanan Yang Maha Esa"],
+    "correct": 0
+  },
+  {
+    "id": 125,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Sila kelima Pancasila berbunyi...",
+    "a": ["Persatuan Indonesia", "Keadilan sosial bagi seluruh rakyat Indonesia", "Kemanusiaan yang adil dan beradab", "Ketuhanan Yang Maha Esa"],
+    "correct": 1
+  },
+  {
+    "id": 126,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Piagam Jakarta disahkan pada tanggal...",
+    "a": ["1 Juni 1945", "22 Juni 1945", "17 Agustus 1945", "18 Agustus 1945"],
+    "correct": 1
+  },
+  {
+    "id": 127,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Sidang PPKI yang mengesahkan UUD 1945 dilaksanakan pada tanggal...",
+    "a": ["17 Agustus 1945", "18 Agustus 1945", "22 Juni 1945", "1 Juni 1945"],
+    "correct": 1
+  },
+  {
+    "id": 128,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "BPUPKI dibentuk pada tahun...",
+    "a": ["1942", "1943", "1944", "1945"],
+    "correct": 3
+  },
+  {
+    "id": 129,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Ketua BPUPKI adalah...",
+    "a": ["Soekarno", "Mohammad Hatta", "Dr. Radjiman Wedyodiningrat", "Sutan Sjahrir"],
+    "correct": 2
+  },
+  {
+    "id": 130,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Ketua PPKI adalah...",
+    "a": ["Soekarno", "Mohammad Hatta", "Ahmad Soebardjo", "Ki Hajar Dewantara"],
+    "correct": 0
+  },
+  {
+    "id": 131,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Peristiwa Rengasdengklok terjadi pada tanggal...",
+    "a": ["16 Agustus 1945", "17 Agustus 1945", "15 Agustus 1945", "18 Agustus 1945"],
+    "correct": 0
+  },
+  {
+    "id": 132,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Tujuan utama dibentuknya BPUPKI adalah...",
+    "a": ["Mempersiapkan kemerdekaan Indonesia", "Mengusir penjajah", "Membentuk tentara nasional", "Menyusun kabinet"],
+    "correct": 0
+  },
+  {
+    "id": 133,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "UUD 1945 telah mengalami amandemen sebanyak...",
+    "a": ["2 kali", "3 kali", "4 kali", "5 kali"],
+    "correct": 2
+  },
+  {
+    "id": 134,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Lembaga yang berwenang mengubah UUD adalah...",
+    "a": ["DPR", "Presiden", "MPR", "MA"],
+    "correct": 2
+  },
+  {
+    "id": 135,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Mahkamah Konstitusi berfungsi untuk...",
+    "a": ["Membuat undang-undang", "Mengadili pelanggaran hukum", "Menguji undang-undang terhadap UUD", "Mengawasi keuangan negara"],
+    "correct": 2
+  },
+  {
+    "id": 136,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "BPK bertugas untuk...",
+    "a": ["Mengadili perkara", "Mengawasi keuangan negara", "Membuat undang-undang", "Menjalankan pemerintahan"],
+    "correct": 1
+  },
+  {
+    "id": 137,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Otonomi daerah bertujuan untuk...",
+    "a": ["Memusatkan kekuasaan", "Meningkatkan kesejahteraan daerah", "Mengurangi peran daerah", "Menghapus pemerintah daerah"],
+    "correct": 1
+  },
+  {
+    "id": 138,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "NKRI berdasarkan pada prinsip...",
+    "a": ["Sentralisasi", "Desentralisasi", "Demokrasi", "Monarki"],
+    "correct": 2
+  },
+  {
+    "id": 139,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Hak memilih dalam pemilu termasuk hak...",
+    "a": ["Asasi politik", "Asasi ekonomi", "Asasi sosial", "Asasi budaya"],
+    "correct": 0
+  },
+  {
+    "id": 140,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Pemilu di Indonesia dilaksanakan setiap...",
+    "a": ["3 tahun", "4 tahun", "5 tahun", "6 tahun"],
+    "correct": 2
+  },
+  {
+    "id": 141,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Makna Bhinneka Tunggal Ika adalah...",
+    "a": ["Berbeda-beda tetapi tetap satu", "Satu bangsa satu bahasa", "Persatuan dalam keberagaman", "Kesatuan wilayah Indonesia"],
+    "correct": 0
+  },
+  {
+    "id": 142,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Lagu Indonesia Raya pertama kali diperdengarkan pada peristiwa...",
+    "a": ["Proklamasi", "Sumpah Pemuda", "Sidang BPUPKI", "Konferensi Meja Bundar"],
+    "correct": 1
+  },
+  {
+    "id": 143,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Tokoh yang mencetuskan nama Pancasila adalah...",
+    "a": ["Mohammad Hatta", "Soekarno", "Soepomo", "Muhammad Yamin"],
+    "correct": 1
+  },
+  {
+    "id": 144,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Wilayah Indonesia terbentang dari Sabang sampai...",
+    "a": ["Merauke", "Miangas", "Timor", "Bali"],
+    "correct": 0
+  },
+  {
+    "id": 145,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Bentuk kedaulatan rakyat di Indonesia diwujudkan melalui...",
+    "a": ["Pemilu", "Musyawarah", "Demonstrasi", "Referendum"],
+    "correct": 0
+  },
+  {
+    "id": 146,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Sistem hukum tertinggi di Indonesia adalah...",
+    "a": ["UUD 1945", "Pancasila", "KUHP", "TAP MPR"],
+    "correct": 1
+  },
+  {
+    "id": 147,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Lambang sila pertama Pancasila adalah...",
+    "a": ["Bintang", "Rantai", "Pohon beringin", "Kepala banteng"],
+    "correct": 0
+  },
+  {
+    "id": 148,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Lambang sila kedua Pancasila adalah...",
+    "a": ["Padi dan kapas", "Rantai", "Bintang", "Pohon beringin"],
+    "correct": 1
+  },
+  {
+    "id": 149,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Lambang sila ketiga Pancasila adalah...",
+    "a": ["Kepala banteng", "Pohon beringin", "Rantai", "Bintang"],
+    "correct": 1
+  },
+  {
+    "id": 150,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Lambang sila keempat Pancasila adalah...",
+    "a": ["Kepala banteng", "Padi dan kapas", "Rantai", "Bintang"],
+    "correct": 0
+  },
+  {
+    "id": 151,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Lambang sila kelima Pancasila adalah...",
+    "a": ["Bintang", "Rantai", "Padi dan kapas", "Pohon beringin"],
+    "correct": 2
+  },
+  {
+    "id": 152,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Sikap cinta tanah air disebut...",
+    "a": ["Nasionalisme", "Patriotisme", "Demokrasi", "Globalisasi"],
+    "correct": 1
+  },
+  {
+    "id": 153,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Paham yang menempatkan kepentingan bangsa di atas kepentingan pribadi adalah...",
+    "a": ["Individualisme", "Nasionalisme", "Liberalisme", "Kapitalisme"],
+    "correct": 1
+  },
+  {
+    "id": 154,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Wawasan Nusantara adalah cara pandang bangsa Indonesia tentang...",
+    "a": ["Politik luar negeri", "Wilayah dan persatuan bangsa", "Ekonomi nasional", "Sistem hukum"],
+    "correct": 1
+  },
+  {
+    "id": 155,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Ancaman terhadap integrasi nasional dapat berasal dari...",
+    "a": ["Dalam negeri saja", "Luar negeri saja", "Dalam dan luar negeri", "Tidak ada ancaman"],
+    "correct": 2
+  },
+  {
+    "id": 156,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Upaya menjaga keutuhan NKRI adalah dengan...",
+    "a": ["Mementingkan golongan", "Menghargai perbedaan", "Mengabaikan hukum", "Menolak budaya lain"],
+    "correct": 1
+  },
+  {
+    "id": 157,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Bela negara merupakan kewajiban bagi...",
+    "a": ["Tentara saja", "Polisi saja", "Seluruh warga negara", "Pejabat negara"],
+    "correct": 2
+  },
+  {
+    "id": 158,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Contoh sikap bela negara adalah...",
+    "a": ["Melanggar hukum", "Membayar pajak", "Menyebarkan hoaks", "Menghindari kewajiban"],
+    "correct": 1
+  },
+  {
+    "id": 159,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Globalisasi dapat berdampak negatif jika...",
+    "a": ["Disaring dengan baik", "Diterima tanpa seleksi", "Dimanfaatkan teknologi", "Dikembangkan budaya lokal"],
+    "correct": 1
+  },
+  {
+    "id": 160,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Semangat persatuan dan kesatuan harus ditanamkan sejak...",
+    "a": ["Dewasa", "Remaja", "Anak-anak", "Lansia"],
+    "correct": 2
+  },
+  {
+    "id": 161,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Negara Indonesia adalah negara hukum, artinya...",
+    "a": ["Kekuasaan tertinggi di tangan rakyat", "Segala sesuatu berdasarkan hukum", "Presiden berkuasa penuh", "Rakyat bebas tanpa aturan"],
+    "correct": 1
+  },
+  {
+    "id": 162,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Kedaulatan berada di tangan rakyat dan dilaksanakan menurut...",
+    "a": ["Presiden", "DPR", "UUD 1945", "MPR"],
+    "correct": 2
+  },
+  {
+    "id": 163,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Wilayah laut Indonesia diakui melalui deklarasi...",
+    "a": ["Djuanda", "Bandung", "Jakarta", "Bogor"],
+    "correct": 0
+  },
+  {
+    "id": 164,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Tujuan nasional Indonesia salah satunya adalah...",
+    "a": ["Memperluas wilayah", "Mencerdaskan kehidupan bangsa", "Menguasai negara lain", "Meningkatkan kekuasaan"],
+    "correct": 1
+  },
+  {
+    "id": 165,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Pembukaan UUD 1945 terdiri dari berapa alinea...",
+    "a": ["2", "3", "4", "5"],
+    "correct": 2
+  },
+  {
+    "id": 166,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Alinea keempat Pembukaan UUD 1945 memuat tentang...",
+    "a": ["Perjuangan bangsa", "Tujuan negara dan dasar negara", "Penjajahan", "Kemerdekaan"],
+    "correct": 1
+  },
+  {
+    "id": 167,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Hak asasi manusia di Indonesia diatur dalam...",
+    "a": ["UUD 1945", "KUHP", "TAP MPR", "Perpres"],
+    "correct": 0
+  },
+  {
+    "id": 168,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Kewajiban warga negara salah satunya adalah...",
+    "a": ["Menolak pajak", "Mematuhi hukum", "Menghindari aturan", "Melanggar norma"],
+    "correct": 1
+  },
+  {
+    "id": 169,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Sistem demokrasi di Indonesia adalah...",
+    "a": ["Demokrasi liberal", "Demokrasi terpimpin", "Demokrasi Pancasila", "Demokrasi langsung"],
+    "correct": 2
+  },
+  {
+    "id": 170,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Pancasila sebagai ideologi negara berarti...",
+    "a": ["Sebagai simbol negara", "Sebagai dasar dalam kehidupan berbangsa", "Sebagai lagu kebangsaan", "Sebagai lambang negara"],
+    "correct": 1
+  },
+  {
+    "id": 171,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Sikap toleransi dalam kehidupan berbangsa berarti...",
+    "a": ["Memaksakan kehendak", "Menghargai perbedaan", "Menolak pendapat orang lain", "Mementingkan diri sendiri"],
+    "correct": 1
+  },
+  {
+    "id": 172,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Persatuan dan kesatuan dapat terwujud jika...",
+    "a": ["Saling bermusuhan", "Menghargai perbedaan", "Mementingkan kelompok", "Tidak peduli"],
+    "correct": 1
+  },
+  {
+    "id": 173,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Keberagaman budaya di Indonesia harus disikapi dengan...",
+    "a": ["Permusuhan", "Diskriminasi", "Toleransi", "Penolakan"],
+    "correct": 2
+  },
+  {
+    "id": 174,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Contoh ancaman non-militer adalah...",
+    "a": ["Perang", "Invasi", "Hoaks", "Agresi"],
+    "correct": 2
+  },
+  {
+    "id": 175,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Semangat gotong royong mencerminkan nilai...",
+    "a": ["Individualisme", "Egoisme", "Kebersamaan", "Kapitalisme"],
+    "correct": 2
+  },
+  {
+    "id": 176,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Sikap rela berkorban untuk bangsa disebut...",
+    "a": ["Nasionalisme", "Patriotisme", "Liberalisme", "Individualisme"],
+    "correct": 1
+  },
+  {
+    "id": 177,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Contoh sikap nasionalisme adalah...",
+    "a": ["Mencintai produk luar negeri", "Bangga terhadap budaya sendiri", "Menolak budaya sendiri", "Mengabaikan negara"],
+    "correct": 1
+  },
+  {
+    "id": 178,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Integrasi nasional berarti...",
+    "a": ["Perpecahan bangsa", "Penyatuan bangsa", "Persaingan antar daerah", "Dominasi kelompok"],
+    "correct": 1
+  },
+  {
+    "id": 179,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Salah satu faktor pemersatu bangsa Indonesia adalah...",
+    "a": ["Perbedaan agama", "Bahasa Indonesia", "Konflik sosial", "Perbedaan budaya"],
+    "correct": 1
+  },
+  {
+    "id": 180,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Upaya menjaga persatuan bangsa dapat dilakukan dengan...",
+    "a": ["Menyebar kebencian", "Menghormati perbedaan", "Memecah belah", "Diskriminasi"],
+    "correct": 1
+  },
+  {
+    "id": 181,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Salah satu ciri negara kesatuan adalah...",
+    "a": ["Kekuasaan terbagi ke negara bagian", "Kekuasaan terpusat pada pemerintah pusat", "Memiliki dua pemerintahan", "Dipimpin oleh raja"],
+    "correct": 1
+  },
+  {
+    "id": 182,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Sistem perwakilan rakyat di Indonesia dilaksanakan oleh...",
+    "a": ["Presiden", "DPR", "MA", "BPK"],
+    "correct": 1
+  },
+  {
+    "id": 183,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Lembaga yang mengawasi jalannya undang-undang adalah...",
+    "a": ["Presiden", "DPR", "Mahkamah Konstitusi", "BPK"],
+    "correct": 2
+  },
+  {
+    "id": 184,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Negara Indonesia menganut asas kedaulatan...",
+    "a": ["Raja", "Rakyat", "Militer", "Parlemen"],
+    "correct": 1
+  },
+  {
+    "id": 185,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Wilayah Indonesia terdiri dari...",
+    "a": ["Darat saja", "Laut saja", "Darat, laut, dan udara", "Darat dan laut saja"],
+    "correct": 2
+  },
+  {
+    "id": 186,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Warga negara adalah...",
+    "a": ["Orang asing yang tinggal di Indonesia", "Penduduk tetap suatu negara", "Orang yang memiliki kewarganegaraan", "Turis asing"],
+    "correct": 2
+  },
+  {
+    "id": 187,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Hak warga negara harus diimbangi dengan...",
+    "a": ["Kewajiban", "Kekuasaan", "Kebebasan", "Kepentingan"],
+    "correct": 0
+  },
+  {
+    "id": 188,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Sikap disiplin merupakan contoh pengamalan sila ke...",
+    "a": ["1", "2", "3", "5"],
+    "correct": 3
+  },
+  {
+    "id": 189,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Menghormati hak orang lain merupakan pengamalan sila ke...",
+    "a": ["1", "2", "3", "4"],
+    "correct": 1
+  },
+  {
+    "id": 190,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Musyawarah untuk mufakat merupakan pengamalan sila ke...",
+    "a": ["2", "3", "4", "5"],
+    "correct": 2
+  },
+  {
+    "id": 191,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Menjaga persatuan bangsa merupakan pengamalan sila ke...",
+    "a": ["1", "2", "3", "4"],
+    "correct": 2
+  },
+  {
+    "id": 192,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Beribadah sesuai agama masing-masing merupakan pengamalan sila ke...",
+    "a": ["1", "2", "3", "5"],
+    "correct": 0
+  },
+  {
+    "id": 193,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Salah satu nilai dalam Pancasila adalah...",
+    "a": ["Individualisme", "Kebersamaan", "Liberalisme", "Kapitalisme"],
+    "correct": 1
+  },
+  {
+    "id": 194,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Pelanggaran HAM harus ditindak sesuai...",
+    "a": ["Kebiasaan", "Hukum yang berlaku", "Pendapat masyarakat", "Kepentingan pribadi"],
+    "correct": 1
+  },
+  {
+    "id": 195,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Sikap yang mencerminkan persatuan adalah...",
+    "a": ["Bertengkar", "Gotong royong", "Diskriminasi", "Egois"],
+    "correct": 1
+  },
+  {
+    "id": 196,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Cinta tanah air dapat ditunjukkan dengan...",
+    "a": ["Merusak lingkungan", "Menggunakan produk lokal", "Melanggar hukum", "Tidak peduli negara"],
+    "correct": 1
+  },
+  {
+    "id": 197,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Sikap menghargai perbedaan disebut...",
+    "a": ["Diskriminasi", "Toleransi", "Fanatisme", "Egoisme"],
+    "correct": 1
+  },
+  {
+    "id": 198,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Persatuan bangsa penting untuk...",
+    "a": ["Memecah belah", "Menjaga keutuhan negara", "Menciptakan konflik", "Menguasai daerah lain"],
+    "correct": 1
+  },
+  {
+    "id": 199,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Salah satu ancaman terhadap NKRI adalah...",
+    "a": ["Gotong royong", "Persatuan", "Radikalisme", "Toleransi"],
+    "correct": 2
+  },
+  {
+    "id": 200,
+    "kategori": "Wawasan Kebangsaan",
+    "q": "Menjaga keamanan lingkungan merupakan tanggung jawab...",
+    "a": ["Polisi saja", "TNI saja", "Seluruh masyarakat", "Pemerintah saja"],
+    "correct": 2
+  },
+  {
+    "id": 201,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 25 + 37 adalah...",
+    "a": ["52", "62", "72", "82"],
+    "correct": 1
+  },
+  {
+    "id": 202,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 48 ÷ 6 adalah...",
+    "a": ["6", "7", "8", "9"],
+    "correct": 2
+  },
+  {
+    "id": 203,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 12 × 7 adalah...",
+    "a": ["72", "84", "96", "108"],
+    "correct": 1
+  },
+  {
+    "id": 204,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 100 - 45 adalah...",
+    "a": ["45", "50", "55", "60"],
+    "correct": 2
+  },
+  {
+    "id": 205,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika x = 5, maka nilai dari 3x + 2 adalah...",
+    "a": ["15", "17", "20", "25"],
+    "correct": 1
+  },
+  {
+    "id": 206,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 9² adalah...",
+    "a": ["18", "27", "81", "72"],
+    "correct": 2
+  },
+  {
+    "id": 207,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 144 ÷ 12 adalah...",
+    "a": ["10", "11", "12", "13"],
+    "correct": 2
+  },
+  {
+    "id": 208,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 15% dari 200 adalah...",
+    "a": ["20", "25", "30", "35"],
+    "correct": 2
+  },
+  {
+    "id": 209,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika 2x = 10, maka nilai x adalah...",
+    "a": ["2", "3", "4", "5"],
+    "correct": 3
+  },
+  {
+    "id": 210,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 7³ adalah...",
+    "a": ["49", "147", "343", "240"],
+    "correct": 2
+  },
+  {
+    "id": 211,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 0,5 × 80 adalah...",
+    "a": ["20", "30", "40", "50"],
+    "correct": 2
+  },
+  {
+    "id": 212,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika sebuah barang seharga 100.000 mendapat diskon 20%, maka harga akhirnya adalah...",
+    "a": ["70.000", "75.000", "80.000", "85.000"],
+    "correct": 2
+  },
+  {
+    "id": 213,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 3/4 + 1/4 adalah...",
+    "a": ["1/2", "1", "3/4", "2"],
+    "correct": 1
+  },
+  {
+    "id": 214,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 5² + 3² adalah...",
+    "a": ["34", "25", "16", "28"],
+    "correct": 0
+  },
+  {
+    "id": 215,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika 1 jam = 60 menit, maka 2,5 jam = ... menit",
+    "a": ["120", "130", "150", "180"],
+    "correct": 2
+  },
+  {
+    "id": 216,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 18 × 5 adalah...",
+    "a": ["80", "85", "90", "95"],
+    "correct": 2
+  },
+  {
+    "id": 217,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika sebuah bilangan dikali 4 hasilnya 32, maka bilangannya adalah...",
+    "a": ["6", "7", "8", "9"],
+    "correct": 2
+  },
+  {
+    "id": 218,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 10% dari 350 adalah...",
+    "a": ["30", "35", "40", "45"],
+    "correct": 1
+  },
+  {
+    "id": 219,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 64 ÷ 8 adalah...",
+    "a": ["6", "7", "8", "9"],
+    "correct": 2
+  },
+  {
+    "id": 220,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 6 × (4 + 3) adalah...",
+    "a": ["24", "36", "42", "48"],
+    "correct": 2
+  },
+  {
+    "id": 221,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 36 + 49 adalah...",
+    "a": ["75", "85", "95", "105"],
+    "correct": 1
+  },
+  {
+    "id": 222,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 81 ÷ 9 adalah...",
+    "a": ["7", "8", "9", "10"],
+    "correct": 2
+  },
+  {
+    "id": 223,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 14 × 6 adalah...",
+    "a": ["72", "84", "96", "108"],
+    "correct": 1
+  },
+  {
+    "id": 224,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 200 - 125 adalah...",
+    "a": ["65", "70", "75", "80"],
+    "correct": 2
+  },
+  {
+    "id": 225,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika x = 8, maka nilai dari 2x + 6 adalah...",
+    "a": ["20", "22", "24", "26"],
+    "correct": 1
+  },
+  {
+    "id": 226,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 11² adalah...",
+    "a": ["111", "121", "131", "141"],
+    "correct": 1
+  },
+  {
+    "id": 227,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 225 ÷ 15 adalah...",
+    "a": ["10", "12", "15", "20"],
+    "correct": 2
+  },
+  {
+    "id": 228,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 25% dari 400 adalah...",
+    "a": ["50", "75", "100", "125"],
+    "correct": 2
+  },
+  {
+    "id": 229,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika 3x = 21, maka nilai x adalah...",
+    "a": ["5", "6", "7", "8"],
+    "correct": 2
+  },
+  {
+    "id": 230,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 5³ adalah...",
+    "a": ["25", "75", "100", "125"],
+    "correct": 3
+  },
+  {
+    "id": 231,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 0,25 × 200 adalah...",
+    "a": ["25", "50", "75", "100"],
+    "correct": 1
+  },
+  {
+    "id": 232,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika sebuah barang seharga 150.000 mendapat diskon 10%, maka harga akhirnya adalah...",
+    "a": ["130.000", "135.000", "140.000", "145.000"],
+    "correct": 1
+  },
+  {
+    "id": 233,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 2/3 + 1/3 adalah...",
+    "a": ["1/2", "1", "2/3", "3/3"],
+    "correct": 1
+  },
+  {
+    "id": 234,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 6² + 4² adalah...",
+    "a": ["52", "36", "40", "48"],
+    "correct": 0
+  },
+  {
+    "id": 235,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika 1 hari = 24 jam, maka 3 hari = ... jam",
+    "a": ["48", "60", "72", "84"],
+    "correct": 2
+  },
+  {
+    "id": 236,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 27 × 3 adalah...",
+    "a": ["71", "81", "91", "101"],
+    "correct": 1
+  },
+  {
+    "id": 237,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika sebuah bilangan dikali 5 hasilnya 45, maka bilangannya adalah...",
+    "a": ["7", "8", "9", "10"],
+    "correct": 2
+  },
+  {
+    "id": 238,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 15% dari 300 adalah...",
+    "a": ["30", "40", "45", "50"],
+    "correct": 2
+  },
+  {
+    "id": 239,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 72 ÷ 9 adalah...",
+    "a": ["6", "7", "8", "9"],
+    "correct": 2
+  },
+  {
+    "id": 240,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 8 × (5 + 2) adalah...",
+    "a": ["40", "48", "56", "64"],
+    "correct": 2
+  },
+  {
+    "id": 241,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 56 + 38 adalah...",
+    "a": ["84", "94", "104", "114"],
+    "correct": 1
+  },
+  {
+    "id": 242,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 96 ÷ 12 adalah...",
+    "a": ["6", "7", "8", "9"],
+    "correct": 2
+  },
+  {
+    "id": 243,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 13 × 9 adalah...",
+    "a": ["107", "117", "127", "137"],
+    "correct": 1
+  },
+  {
+    "id": 244,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 300 - 175 adalah...",
+    "a": ["115", "120", "125", "130"],
+    "correct": 2
+  },
+  {
+    "id": 245,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika x = 10, maka nilai dari 4x + 5 adalah...",
+    "a": ["35", "40", "45", "50"],
+    "correct": 2
+  },
+  {
+    "id": 246,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 12² adalah...",
+    "a": ["124", "134", "144", "154"],
+    "correct": 2
+  },
+  {
+    "id": 247,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 180 ÷ 9 adalah...",
+    "a": ["18", "19", "20", "21"],
+    "correct": 2
+  },
+  {
+    "id": 248,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 40% dari 250 adalah...",
+    "a": ["80", "90", "100", "110"],
+    "correct": 2
+  },
+  {
+    "id": 249,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika 5x = 35, maka nilai x adalah...",
+    "a": ["5", "6", "7", "8"],
+    "correct": 2
+  },
+  {
+    "id": 250,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 4³ adalah...",
+    "a": ["16", "32", "48", "64"],
+    "correct": 3
+  },
+  {
+    "id": 251,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 0,2 × 150 adalah...",
+    "a": ["20", "25", "30", "35"],
+    "correct": 2
+  },
+  {
+    "id": 252,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika sebuah barang seharga 200.000 mendapat diskon 25%, maka harga akhirnya adalah...",
+    "a": ["140.000", "150.000", "160.000", "170.000"],
+    "correct": 1
+  },
+  {
+    "id": 253,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 5/6 + 1/6 adalah...",
+    "a": ["1/2", "1", "6/6", "2/3"],
+    "correct": 1
+  },
+  {
+    "id": 254,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 8² + 6² adalah...",
+    "a": ["100", "104", "110", "120"],
+    "correct": 0
+  },
+  {
+    "id": 255,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika 1 minggu = 7 hari, maka 4 minggu = ... hari",
+    "a": ["21", "24", "28", "30"],
+    "correct": 2
+  },
+  {
+    "id": 256,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 32 × 4 adalah...",
+    "a": ["118", "128", "138", "148"],
+    "correct": 1
+  },
+  {
+    "id": 257,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika sebuah bilangan dikali 6 hasilnya 54, maka bilangannya adalah...",
+    "a": ["7", "8", "9", "10"],
+    "correct": 2
+  },
+  {
+    "id": 258,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 12% dari 500 adalah...",
+    "a": ["50", "55", "60", "65"],
+    "correct": 2
+  },
+  {
+    "id": 259,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 90 ÷ 10 adalah...",
+    "a": ["7", "8", "9", "10"],
+    "correct": 3
+  },
+  {
+    "id": 260,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 9 × (6 + 4) adalah...",
+    "a": ["80", "85", "90", "95"],
+    "correct": 2
+  },
+  {
+    "id": 261,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 75 + 28 adalah...",
+    "a": ["93", "103", "113", "123"],
+    "correct": 1
+  },
+  {
+    "id": 262,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 144 ÷ 16 adalah...",
+    "a": ["7", "8", "9", "10"],
+    "correct": 2
+  },
+  {
+    "id": 263,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 16 × 7 adalah...",
+    "a": ["102", "112", "122", "132"],
+    "correct": 1
+  },
+  {
+    "id": 264,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 500 - 275 adalah...",
+    "a": ["205", "215", "225", "235"],
+    "correct": 2
+  },
+  {
+    "id": 265,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika x = 12, maka nilai dari 3x + 4 adalah...",
+    "a": ["36", "40", "44", "48"],
+    "correct": 1
+  },
+  {
+    "id": 266,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 13² adalah...",
+    "a": ["159", "169", "179", "189"],
+    "correct": 1
+  },
+  {
+    "id": 267,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 210 ÷ 7 adalah...",
+    "a": ["25", "28", "30", "35"],
+    "correct": 2
+  },
+  {
+    "id": 268,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 60% dari 150 adalah...",
+    "a": ["80", "85", "90", "95"],
+    "correct": 2
+  },
+  {
+    "id": 269,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika 4x = 32, maka nilai x adalah...",
+    "a": ["6", "7", "8", "9"],
+    "correct": 2
+  },
+  {
+    "id": 270,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 6³ adalah...",
+    "a": ["196", "206", "216", "226"],
+    "correct": 2
+  },
+  {
+    "id": 271,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 0,75 × 200 adalah...",
+    "a": ["120", "140", "150", "160"],
+    "correct": 2
+  },
+  {
+    "id": 272,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika sebuah barang seharga 300.000 mendapat diskon 20%, maka harga akhirnya adalah...",
+    "a": ["220.000", "230.000", "240.000", "250.000"],
+    "correct": 2
+  },
+  {
+    "id": 273,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 7/8 + 1/8 adalah...",
+    "a": ["1/2", "1", "8/8", "3/4"],
+    "correct": 1
+  },
+  {
+    "id": 274,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 9² + 5² adalah...",
+    "a": ["106", "110", "116", "120"],
+    "correct": 0
+  },
+  {
+    "id": 275,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika 1 bulan = 30 hari, maka 6 bulan = ... hari",
+    "a": ["150", "160", "170", "180"],
+    "correct": 3
+  },
+  {
+    "id": 276,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 45 × 4 adalah...",
+    "a": ["160", "170", "180", "190"],
+    "correct": 2
+  },
+  {
+    "id": 277,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika sebuah bilangan dikali 7 hasilnya 56, maka bilangannya adalah...",
+    "a": ["6", "7", "8", "9"],
+    "correct": 2
+  },
+  {
+    "id": 278,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 18% dari 400 adalah...",
+    "a": ["60", "70", "72", "80"],
+    "correct": 2
+  },
+  {
+    "id": 279,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 100 ÷ 20 adalah...",
+    "a": ["4", "5", "6", "7"],
+    "correct": 1
+  },
+  {
+    "id": 280,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 7 × (8 + 2) adalah...",
+    "a": ["60", "65", "70", "75"],
+    "correct": 2
+  },
+  {
+    "id": 281,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 68 + 47 adalah...",
+    "a": ["105", "115", "125", "135"],
+    "correct": 1
+  },
+  {
+    "id": 282,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 128 ÷ 16 adalah...",
+    "a": ["6", "7", "8", "9"],
+    "correct": 2
+  },
+  {
+    "id": 283,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 17 × 8 adalah...",
+    "a": ["126", "136", "146", "156"],
+    "correct": 1
+  },
+  {
+    "id": 284,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 600 - 325 adalah...",
+    "a": ["255", "265", "275", "285"],
+    "correct": 2
+  },
+  {
+    "id": 285,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika x = 15, maka nilai dari 2x + 10 adalah...",
+    "a": ["35", "40", "45", "50"],
+    "correct": 1
+  },
+  {
+    "id": 286,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 14² adalah...",
+    "a": ["186", "196", "206", "216"],
+    "correct": 1
+  },
+  {
+    "id": 287,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 240 ÷ 12 adalah...",
+    "a": ["18", "19", "20", "21"],
+    "correct": 2
+  },
+  {
+    "id": 288,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 30% dari 300 adalah...",
+    "a": ["70", "80", "90", "100"],
+    "correct": 2
+  },
+  {
+    "id": 289,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika 6x = 48, maka nilai x adalah...",
+    "a": ["6", "7", "8", "9"],
+    "correct": 2
+  },
+  {
+    "id": 290,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 8³ adalah...",
+    "a": ["256", "384", "512", "640"],
+    "correct": 2
+  },
+  {
+    "id": 291,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 0,4 × 250 adalah...",
+    "a": ["80", "90", "100", "110"],
+    "correct": 2
+  },
+  {
+    "id": 292,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika sebuah barang seharga 400.000 mendapat diskon 15%, maka harga akhirnya adalah...",
+    "a": ["320.000", "330.000", "340.000", "350.000"],
+    "correct": 2
+  },
+  {
+    "id": 293,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 9/10 + 1/10 adalah...",
+    "a": ["1/2", "1", "10/10", "3/4"],
+    "correct": 1
+  },
+  {
+    "id": 294,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 7² + 9² adalah...",
+    "a": ["120", "130", "140", "150"],
+    "correct": 1
+  },
+  {
+    "id": 295,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika 1 tahun = 12 bulan, maka 5 tahun = ... bulan",
+    "a": ["50", "55", "60", "65"],
+    "correct": 2
+  },
+  {
+    "id": 296,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 55 × 3 adalah...",
+    "a": ["155", "165", "175", "185"],
+    "correct": 1
+  },
+  {
+    "id": 297,
+    "kategori": "Matematika/Numerik",
+    "q": "Jika sebuah bilangan dikali 8 hasilnya 64, maka bilangannya adalah...",
+    "a": ["6", "7", "8", "9"],
+    "correct": 2
+  },
+  {
+    "id": 298,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 22% dari 500 adalah...",
+    "a": ["100", "105", "110", "115"],
+    "correct": 2
+  },
+  {
+    "id": 299,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 120 ÷ 15 adalah...",
+    "a": ["6", "7", "8", "9"],
+    "correct": 2
+  },
+  {
+    "id": 300,
+    "kategori": "Matematika/Numerik",
+    "q": "Hasil dari 6 × (9 + 3) adalah...",
+    "a": ["60", "66", "72", "78"],
+    "correct": 2
+  },
+  {
+    "id": 301,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct synonym of 'happy'...",
+    "a": ["Sad", "Angry", "Joyful", "Tired"],
+    "correct": 2
+  },
+  {
+    "id": 302,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct antonym of 'big'...",
+    "a": ["Large", "Huge", "Small", "Wide"],
+    "correct": 2
+  },
+  {
+    "id": 303,
+    "kategori": "Bahasa Inggris",
+    "q": "She ____ to school every day.",
+    "a": ["go", "goes", "going", "gone"],
+    "correct": 1
+  },
+  {
+    "id": 304,
+    "kategori": "Bahasa Inggris",
+    "q": "They ____ playing football now.",
+    "a": ["is", "are", "was", "be"],
+    "correct": 1
+  },
+  {
+    "id": 305,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct meaning of 'beautiful'...",
+    "a": ["Ugly", "Pretty", "Bad", "Dirty"],
+    "correct": 1
+  },
+  {
+    "id": 306,
+    "kategori": "Bahasa Inggris",
+    "q": "I ____ a book yesterday.",
+    "a": ["read", "reads", "reading", "to read"],
+    "correct": 0
+  },
+  {
+    "id": 307,
+    "kategori": "Bahasa Inggris",
+    "q": "He ____ watching TV right now.",
+    "a": ["is", "are", "was", "were"],
+    "correct": 0
+  },
+  {
+    "id": 308,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct plural form of 'child'...",
+    "a": ["childs", "children", "childes", "childrens"],
+    "correct": 1
+  },
+  {
+    "id": 309,
+    "kategori": "Bahasa Inggris",
+    "q": "We ____ finished our homework.",
+    "a": ["has", "have", "had", "having"],
+    "correct": 1
+  },
+  {
+    "id": 310,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct word: 'She is ____ than her sister.'",
+    "a": ["tall", "taller", "tallest", "more tall"],
+    "correct": 1
+  },
+  {
+    "id": 311,
+    "kategori": "Bahasa Inggris",
+    "q": "The sun ____ in the east.",
+    "a": ["rise", "rises", "rose", "rising"],
+    "correct": 1
+  },
+  {
+    "id": 312,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct antonym of 'fast'...",
+    "a": ["Quick", "Rapid", "Slow", "Swift"],
+    "correct": 2
+  },
+  {
+    "id": 313,
+    "kategori": "Bahasa Inggris",
+    "q": "They ____ to the market last Sunday.",
+    "a": ["go", "goes", "went", "going"],
+    "correct": 2
+  },
+  {
+    "id": 314,
+    "kategori": "Bahasa Inggris",
+    "q": "I have ____ my homework.",
+    "a": ["do", "did", "done", "doing"],
+    "correct": 2
+  },
+  {
+    "id": 315,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct word: 'This is the ____ book I have ever read.'",
+    "a": ["good", "better", "best", "more good"],
+    "correct": 2
+  },
+  {
+    "id": 316,
+    "kategori": "Bahasa Inggris",
+    "q": "She ____ not like coffee.",
+    "a": ["do", "does", "did", "doing"],
+    "correct": 1
+  },
+  {
+    "id": 317,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct synonym of 'smart'...",
+    "a": ["Stupid", "Clever", "Lazy", "Weak"],
+    "correct": 1
+  },
+  {
+    "id": 318,
+    "kategori": "Bahasa Inggris",
+    "q": "We ____ watching a movie when he arrived.",
+    "a": ["is", "are", "was", "were"],
+    "correct": 3
+  },
+  {
+    "id": 319,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct preposition: 'He is good ____ math.'",
+    "a": ["in", "at", "on", "for"],
+    "correct": 1
+  },
+  {
+    "id": 320,
+    "kategori": "Bahasa Inggris",
+    "q": "I will ____ you tomorrow.",
+    "a": ["call", "called", "calling", "calls"],
+    "correct": 0
+  },
+  {
+    "id": 321,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct synonym of 'quick'...",
+    "a": ["Slow", "Fast", "Lazy", "Weak"],
+    "correct": 1
+  },
+  {
+    "id": 322,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct antonym of 'strong'...",
+    "a": ["Powerful", "Weak", "Brave", "Big"],
+    "correct": 1
+  },
+  {
+    "id": 323,
+    "kategori": "Bahasa Inggris",
+    "q": "They ____ to school every morning.",
+    "a": ["go", "goes", "going", "gone"],
+    "correct": 0
+  },
+  {
+    "id": 324,
+    "kategori": "Bahasa Inggris",
+    "q": "She ____ reading a book now.",
+    "a": ["is", "are", "was", "were"],
+    "correct": 0
+  },
+  {
+    "id": 325,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct meaning of 'difficult'...",
+    "a": ["Easy", "Hard", "Simple", "Light"],
+    "correct": 1
+  },
+  {
+    "id": 326,
+    "kategori": "Bahasa Inggris",
+    "q": "I ____ my homework last night.",
+    "a": ["finish", "finishes", "finished", "finishing"],
+    "correct": 2
+  },
+  {
+    "id": 327,
+    "kategori": "Bahasa Inggris",
+    "q": "He ____ playing football right now.",
+    "a": ["is", "are", "was", "were"],
+    "correct": 0
+  },
+  {
+    "id": 328,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct plural form of 'mouse'...",
+    "a": ["mouses", "mices", "mice", "mouse"],
+    "correct": 2
+  },
+  {
+    "id": 329,
+    "kategori": "Bahasa Inggris",
+    "q": "We ____ seen that movie before.",
+    "a": ["has", "have", "had", "having"],
+    "correct": 1
+  },
+  {
+    "id": 330,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct word: 'He is ____ than his brother.'",
+    "a": ["strong", "stronger", "strongest", "more strong"],
+    "correct": 1
+  },
+  {
+    "id": 331,
+    "kategori": "Bahasa Inggris",
+    "q": "The earth ____ around the sun.",
+    "a": ["move", "moves", "moved", "moving"],
+    "correct": 1
+  },
+  {
+    "id": 332,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct antonym of 'early'...",
+    "a": ["Late", "Soon", "Quick", "Fast"],
+    "correct": 0
+  },
+  {
+    "id": 333,
+    "kategori": "Bahasa Inggris",
+    "q": "They ____ to Bali last year.",
+    "a": ["go", "goes", "went", "going"],
+    "correct": 2
+  },
+  {
+    "id": 334,
+    "kategori": "Bahasa Inggris",
+    "q": "I have ____ my breakfast.",
+    "a": ["eat", "ate", "eaten", "eating"],
+    "correct": 2
+  },
+  {
+    "id": 335,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct word: 'This is the ____ day of my life.'",
+    "a": ["happy", "happier", "happiest", "more happy"],
+    "correct": 2
+  },
+  {
+    "id": 336,
+    "kategori": "Bahasa Inggris",
+    "q": "She ____ not understand the lesson.",
+    "a": ["do", "does", "did", "doing"],
+    "correct": 1
+  },
+  {
+    "id": 337,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct synonym of 'angry'...",
+    "a": ["Happy", "Furious", "Calm", "Kind"],
+    "correct": 1
+  },
+  {
+    "id": 338,
+    "kategori": "Bahasa Inggris",
+    "q": "We ____ studying when the teacher came.",
+    "a": ["is", "are", "was", "were"],
+    "correct": 3
+  },
+  {
+    "id": 339,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct preposition: 'She is interested ____ music.'",
+    "a": ["in", "on", "at", "for"],
+    "correct": 0
+  },
+  {
+    "id": 340,
+    "kategori": "Bahasa Inggris",
+    "q": "I will ____ my friend tonight.",
+    "a": ["meet", "met", "meeting", "meets"],
+    "correct": 0
+  },
+  {
+    "id": 341,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct synonym of 'begin'...",
+    "a": ["End", "Start", "Close", "Finish"],
+    "correct": 1
+  },
+  {
+    "id": 342,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct antonym of 'clean'...",
+    "a": ["Dirty", "Neat", "Fresh", "Clear"],
+    "correct": 0
+  },
+  {
+    "id": 343,
+    "kategori": "Bahasa Inggris",
+    "q": "He ____ to the gym every weekend.",
+    "a": ["go", "goes", "going", "gone"],
+    "correct": 1
+  },
+  {
+    "id": 344,
+    "kategori": "Bahasa Inggris",
+    "q": "They ____ having lunch now.",
+    "a": ["is", "are", "was", "were"],
+    "correct": 1
+  },
+  {
+    "id": 345,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct meaning of 'expensive'...",
+    "a": ["Cheap", "Costly", "Free", "Low"],
+    "correct": 1
+  },
+  {
+    "id": 346,
+    "kategori": "Bahasa Inggris",
+    "q": "I ____ to the park yesterday.",
+    "a": ["go", "goes", "went", "going"],
+    "correct": 2
+  },
+  {
+    "id": 347,
+    "kategori": "Bahasa Inggris",
+    "q": "She ____ cooking dinner right now.",
+    "a": ["is", "are", "was", "were"],
+    "correct": 0
+  },
+  {
+    "id": 348,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct plural form of 'tooth'...",
+    "a": ["tooths", "teeths", "teeth", "toothes"],
+    "correct": 2
+  },
+  {
+    "id": 349,
+    "kategori": "Bahasa Inggris",
+    "q": "We ____ completed the task.",
+    "a": ["has", "have", "had", "having"],
+    "correct": 1
+  },
+  {
+    "id": 350,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct word: 'This car is ____ than that one.'",
+    "a": ["fast", "faster", "fastest", "more fast"],
+    "correct": 1
+  },
+  {
+    "id": 351,
+    "kategori": "Bahasa Inggris",
+    "q": "Water ____ at 100°C.",
+    "a": ["boil", "boils", "boiled", "boiling"],
+    "correct": 1
+  },
+  {
+    "id": 352,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct antonym of 'high'...",
+    "a": ["Tall", "Low", "Up", "Big"],
+    "correct": 1
+  },
+  {
+    "id": 353,
+    "kategori": "Bahasa Inggris",
+    "q": "They ____ to Jakarta last month.",
+    "a": ["go", "goes", "went", "going"],
+    "correct": 2
+  },
+  {
+    "id": 354,
+    "kategori": "Bahasa Inggris",
+    "q": "I have ____ my work.",
+    "a": ["finish", "finished", "finishing", "finishes"],
+    "correct": 1
+  },
+  {
+    "id": 355,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct word: 'This is the ____ place I have visited.'",
+    "a": ["beautiful", "more beautiful", "most beautiful", "beautifuller"],
+    "correct": 2
+  },
+  {
+    "id": 356,
+    "kategori": "Bahasa Inggris",
+    "q": "He ____ not agree with you.",
+    "a": ["do", "does", "did", "doing"],
+    "correct": 1
+  },
+  {
+    "id": 357,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct synonym of 'brave'...",
+    "a": ["Cowardly", "Fearful", "Courageous", "Weak"],
+    "correct": 2
+  },
+  {
+    "id": 358,
+    "kategori": "Bahasa Inggris",
+    "q": "We ____ playing games when it started to rain.",
+    "a": ["is", "are", "was", "were"],
+    "correct": 3
+  },
+  {
+    "id": 359,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct preposition: 'He is afraid ____ dogs.'",
+    "a": ["in", "on", "of", "for"],
+    "correct": 2
+  },
+  {
+    "id": 360,
+    "kategori": "Bahasa Inggris",
+    "q": "I will ____ my homework later.",
+    "a": ["do", "did", "doing", "does"],
+    "correct": 0
+  },
+  {
+    "id": 361,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct synonym of 'large'...",
+    "a": ["Small", "Tiny", "Huge", "Narrow"],
+    "correct": 2
+  },
+  {
+    "id": 362,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct antonym of 'hot'...",
+    "a": ["Warm", "Cool", "Cold", "Heat"],
+    "correct": 2
+  },
+  {
+    "id": 363,
+    "kategori": "Bahasa Inggris",
+    "q": "She ____ to the office every day.",
+    "a": ["go", "goes", "going", "gone"],
+    "correct": 1
+  },
+  {
+    "id": 364,
+    "kategori": "Bahasa Inggris",
+    "q": "They ____ studying English now.",
+    "a": ["is", "are", "was", "were"],
+    "correct": 1
+  },
+  {
+    "id": 365,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct meaning of 'ancient'...",
+    "a": ["Modern", "Old", "New", "Young"],
+    "correct": 1
+  },
+  {
+    "id": 366,
+    "kategori": "Bahasa Inggris",
+    "q": "I ____ my friend last weekend.",
+    "a": ["visit", "visits", "visited", "visiting"],
+    "correct": 2
+  },
+  {
+    "id": 367,
+    "kategori": "Bahasa Inggris",
+    "q": "He ____ listening to music right now.",
+    "a": ["is", "are", "was", "were"],
+    "correct": 0
+  },
+  {
+    "id": 368,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct plural form of 'foot'...",
+    "a": ["foots", "feet", "footes", "footes"],
+    "correct": 1
+  },
+  {
+    "id": 369,
+    "kategori": "Bahasa Inggris",
+    "q": "We ____ finished our project.",
+    "a": ["has", "have", "had", "having"],
+    "correct": 1
+  },
+  {
+    "id": 370,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct word: 'This problem is ____ than the previous one.'",
+    "a": ["easy", "easier", "easiest", "more easy"],
+    "correct": 1
+  },
+  {
+    "id": 371,
+    "kategori": "Bahasa Inggris",
+    "q": "The moon ____ around the earth.",
+    "a": ["move", "moves", "moved", "moving"],
+    "correct": 1
+  },
+  {
+    "id": 372,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct antonym of 'young'...",
+    "a": ["Old", "New", "Small", "Fresh"],
+    "correct": 0
+  },
+  {
+    "id": 373,
+    "kategori": "Bahasa Inggris",
+    "q": "They ____ to Surabaya last holiday.",
+    "a": ["go", "goes", "went", "going"],
+    "correct": 2
+  },
+  {
+    "id": 374,
+    "kategori": "Bahasa Inggris",
+    "q": "I have ____ my lunch.",
+    "a": ["eat", "ate", "eaten", "eating"],
+    "correct": 2
+  },
+  {
+    "id": 375,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct word: 'This is the ____ building in the city.'",
+    "a": ["tall", "taller", "tallest", "more tall"],
+    "correct": 2
+  },
+  {
+    "id": 376,
+    "kategori": "Bahasa Inggris",
+    "q": "She ____ not like spicy food.",
+    "a": ["do", "does", "did", "doing"],
+    "correct": 1
+  },
+  {
+    "id": 377,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct synonym of 'quiet'...",
+    "a": ["Noisy", "Loud", "Silent", "Crowded"],
+    "correct": 2
+  },
+  {
+    "id": 378,
+    "kategori": "Bahasa Inggris",
+    "q": "We ____ talking when the teacher entered the class.",
+    "a": ["is", "are", "was", "were"],
+    "correct": 3
+  },
+  {
+    "id": 379,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct preposition: 'She is afraid ____ heights.'",
+    "a": ["in", "on", "of", "for"],
+    "correct": 2
+  },
+  {
+    "id": 380,
+    "kategori": "Bahasa Inggris",
+    "q": "I will ____ my parents this weekend.",
+    "a": ["visit", "visited", "visiting", "visits"],
+    "correct": 0
+  },
+  {
+    "id": 381,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct synonym of 'smart'...",
+    "a": ["Dull", "Clever", "Slow", "Weak"],
+    "correct": 1
+  },
+  {
+    "id": 382,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct antonym of 'rich'...",
+    "a": ["Wealthy", "Poor", "Happy", "Strong"],
+    "correct": 1
+  },
+  {
+    "id": 383,
+    "kategori": "Bahasa Inggris",
+    "q": "He ____ his homework every night.",
+    "a": ["do", "does", "doing", "done"],
+    "correct": 1
+  },
+  {
+    "id": 384,
+    "kategori": "Bahasa Inggris",
+    "q": "They ____ watching TV now.",
+    "a": ["is", "are", "was", "were"],
+    "correct": 1
+  },
+  {
+    "id": 385,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct meaning of 'quickly'...",
+    "a": ["Slowly", "Fast", "Quiet", "Late"],
+    "correct": 1
+  },
+  {
+    "id": 386,
+    "kategori": "Bahasa Inggris",
+    "q": "I ____ to the library yesterday.",
+    "a": ["go", "goes", "went", "going"],
+    "correct": 2
+  },
+  {
+    "id": 387,
+    "kategori": "Bahasa Inggris",
+    "q": "She ____ doing her assignment right now.",
+    "a": ["is", "are", "was", "were"],
+    "correct": 0
+  },
+  {
+    "id": 388,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct plural form of 'person'...",
+    "a": ["persons", "people", "peoples", "persones"],
+    "correct": 1
+  },
+  {
+    "id": 389,
+    "kategori": "Bahasa Inggris",
+    "q": "We ____ completed the project.",
+    "a": ["has", "have", "had", "having"],
+    "correct": 1
+  },
+  {
+    "id": 390,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct word: 'This test is ____ than the last one.'",
+    "a": ["hard", "harder", "hardest", "more hard"],
+    "correct": 1
+  },
+  {
+    "id": 391,
+    "kategori": "Bahasa Inggris",
+    "q": "The train ____ at 7 a.m. every day.",
+    "a": ["leave", "leaves", "left", "leaving"],
+    "correct": 1
+  },
+  {
+    "id": 392,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct antonym of 'full'...",
+    "a": ["Empty", "Complete", "Filled", "Packed"],
+    "correct": 0
+  },
+  {
+    "id": 393,
+    "kategori": "Bahasa Inggris",
+    "q": "They ____ to Bandung last week.",
+    "a": ["go", "goes", "went", "going"],
+    "correct": 2
+  },
+  {
+    "id": 394,
+    "kategori": "Bahasa Inggris",
+    "q": "I have ____ my assignment.",
+    "a": ["finish", "finished", "finishing", "finishes"],
+    "correct": 1
+  },
+  {
+    "id": 395,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct word: 'This is the ____ movie I have seen.'",
+    "a": ["funny", "funnier", "funniest", "more funny"],
+    "correct": 2
+  },
+  {
+    "id": 396,
+    "kategori": "Bahasa Inggris",
+    "q": "He ____ not know the answer.",
+    "a": ["do", "does", "did", "doing"],
+    "correct": 1
+  },
+  {
+    "id": 397,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct synonym of 'strong'...",
+    "a": ["Weak", "Powerful", "Small", "Soft"],
+    "correct": 1
+  },
+  {
+    "id": 398,
+    "kategori": "Bahasa Inggris",
+    "q": "We ____ studying when the phone rang.",
+    "a": ["is", "are", "was", "were"],
+    "correct": 3
+  },
+  {
+    "id": 399,
+    "kategori": "Bahasa Inggris",
+    "q": "Choose the correct preposition: 'He is interested ____ sports.'",
+    "a": ["in", "on", "at", "for"],
+    "correct": 0
+  },
+  {
+    "id": 400,
+    "kategori": "Bahasa Inggris",
+    "q": "I will ____ my teacher tomorrow.",
+    "a": ["see", "saw", "seeing", "sees"],
+    "correct": 0
+  }
+]
